@@ -1,4 +1,4 @@
-## cqid VLAD (Very Large Analytic Data-structure) domain.
+## VLAD (Very Large Analytic Data-structure) domain.
 ## And you really should not be here.
 
 
